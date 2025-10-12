@@ -19,7 +19,7 @@ Welcome to the **Frontend-Dev** repository! This repository is designed to organ
 8. `css-model` – Box model in CSS
 9. `css-classes` – Working with CSS classes
 10. `responsive-css` – Responsive web design techniques
-11. `bootstrap` – Using Bootstrap framework
+11. `bootstrap` – Using Bootstrap framework 
 
 ## Notes
 
