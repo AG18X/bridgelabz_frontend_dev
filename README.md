@@ -114,8 +114,8 @@ Every branch corresponds to a specific lecture or topic, ensuring step-by-step l
 ## 🧑‍🏫 Instructors
 
 This repository is developed under the guidance of:
-- **Sahil Kumar** — Frontend Design & Layouts  
-- **Deepak Prasad** — HTML, CSS & Web Concepts
+- **Sahil Kumar** 
+- **Deepak Prasad**
 
 Their mentorship ensures every learner gains a complete understanding of modern frontend development workflows.
 
