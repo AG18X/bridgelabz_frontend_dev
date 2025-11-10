@@ -1,0 +1,77 @@
+.parent {
+    background-color: lightgray;
+    border: 2px solid black;
+    height: 250px;
+    width: 500px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    gap: 10px;
+    padding: 10px;
+    box-sizing: border-box;
+    flex-wrap: wrap;
+    margin: auto;
+    /* flex-direction: column; */
+    /* justify-content: flex-end; */
+    /* align-items: flex-start; */
+    /* gap: 20px; */
+    /* height: 400px; */
+    /* width: 300px; */
+    /* flex-wrap: nowrap; */
+    /* flex-wrap: wrap-reverse; */
+    /* border-radius: 15px; */
+    /* padding: 20px; */
+    /* box-sizing: border-box; */
+    /* background-image: linear-gradient(to right, red, yellow); */
+    /* background-image: url('https://via.placeholder.com/500x250'); */
+    /* background-size: cover; */
+    /* background-position: center; */
+    /* box-shadow: 5px 5px 15px rgba(0,
+    0, 0, 0.3); */
+}
+
+.child1 {
+    background-color: lightcoral;
+    border: 1px solid gray;
+    padding: 20px;
+}
+
+.child2 {
+    background-color: lightgreen;
+    border: 1px solid gray;
+    padding: 20px;
+}
+
+.child3 {
+    background-color: lightblue;
+    border: 1px solid gray;
+    padding: 20px;
+}
+
+/* Parent box */
+/* .parent {
+    width: 400px;
+    height: 150px;
+    background-color: lightblue;
+    border: 2px solid blue;
+    display: flex; /* arrange child boxes in a row */
+    /* justify-content: space-around; /* space between child boxes */
+    /* align-items: center; /* vertical center */
+    /* margin: 50px auto; /* center parent horizontally */
+    /* padding: 10px;
+    border-radius: 10px; /* rounded corners */
+} */ */ */
+
+/* Child boxes */
+/* .child1, .child2, .child3 {
+    width: 100px;
+    height: 100px;
+    background-color: lightgreen;
+    border: 2px solid green;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: bold;
+    font-size: 16px;
+    border-radius: 5px;
+} */ */ */

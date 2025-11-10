@@ -1,0 +1,60 @@
+:root {
+  --nav-height: 64px;
+}
+
+body, html {
+  height: 100%;
+  margin: 0;
+  font-family: "Montserrat", sans-serif;
+}
+
+/* NAVBAR */
+.navbar {
+  background: #0e8fa2;
+  height: var(--nav-height);
+}
+.navbar-brand {
+  color: #fff !important;
+  font-weight: 600;
+}
+.nav-link {
+  color: #fff !important;
+}
+
+/* HERO SECTION */
+.hero {
+  min-height: calc(100vh - var(--nav-height));
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: linear-gradient(135deg, #0fb39a 0%, #2bb7c6 50%, #2e9bd6 100%);
+  color: #fff;
+  text-align: center;
+}
+
+.hero h1 {
+  font-family: "Lora", serif;
+  font-size: 3rem;
+  font-weight: 700;
+}
+
+.subtitle {
+  color: rgba(255,255,255,0.85);
+  font-size: 1.1rem;
+  margin-bottom: 1.5rem;
+}
+
+/* BUTTON */
+.btn-resume {
+  background-color: #fff;
+  color: #007c80;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 8px;
+  font-weight: 600;
+  transition: 0.3s;
+}
+.btn-resume:hover {
+  background-color: #e8f8f8;
+  transform: scale(1.05);
+}
